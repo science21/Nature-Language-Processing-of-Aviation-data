@@ -1,4 +1,4 @@
-## RTI CDS Analytics Exercise 02
+## NLP Exercise 02
 
 Welcome to Exercise 02. This exercise provides data from the [National Transportation Safety Board](http://www.ntsb.gov/Pages/default.aspx)'s [database of aviation accidents](http://www.ntsb.gov/_layouts/ntsb.aviation/index.aspx). We'll ask you to perform some routine high-level analytic tasks with the data. 
 
